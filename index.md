@@ -18,5 +18,6 @@ Git, Wrt,
 PuTTY
 SecureCRT
 
+ssh/telnet client and terminal emulator
 
 terminal emulator
