@@ -13,3 +13,10 @@ Java James
 IT界特别喜欢三字母
 Git, Wrt,
 一个字母不够用，二字母也不够用，三字母成了最爱
+
+
+PuTTY
+SecureCRT
+
+
+terminal emulator
